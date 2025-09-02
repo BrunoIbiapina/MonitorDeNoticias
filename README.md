@@ -5,21 +5,21 @@ Inclui **limpeza de texto**, **análise de sentimento baseada em regras**, **tem
 
 ## Funcionalidades
 
-**Coleta** via RSS do Google Notícias (consulta customizável).
-**Busca aprimorada**:
-Presets de 1 clique (IA Piauí / SIA Piauí / IA Governo).
-Filtros avançados: obrigatórias, exclusões e `site:dominio.com`.
-**Processamento**:
-Limpeza HTML → texto limpo.
-Deduplicação por `title`/`link`.
-Extração de **fonte** (domínio) e **data de publicação**.
-**Classificação de sentimento** por regras simples.
-**Dashboard (abas)**:
-**Visão Geral**: KPIs, badges das principais fontes, cards das últimas notícias.
-**Gráficos**: barras e donut (Plotly).
-**Tabela**: filtros por termo, fonte, sentimento e intervalo de datas + export CSV.
-**Nuvem & Temas**: wordcloud + top palavras/bigramas.
-**Cache** da coleta (menos chamadas ao RSS).
+**Coleta** via RSS do Google Notícias (consulta customizável).<br>
+**Busca aprimorada**:<br>
+Presets de 1 clique (IA Piauí / SIA Piauí / IA Governo).<br>
+Filtros avançados: obrigatórias, exclusões e `site:dominio.com`.<br>
+**Processamento**:<br>
+Limpeza HTML → texto limpo.<br>
+Deduplicação por `title`/`link`.<br>
+Extração de **fonte** (domínio) e **data de publicação**.<br>
+**Classificação de sentimento** por regras simples.<br>
+**Dashboard (abas)**:<br>
+**Visão Geral**: KPIs, badges das principais fontes, cards das últimas notícias.<br>
+**Gráficos**: barras e donut (Plotly).<br>
+**Tabela**: filtros por termo, fonte, sentimento e intervalo de datas + export CSV.<br>
+**Nuvem & Temas**: wordcloud + top palavras/bigramas.<br>
+**Cache** da coleta (menos chamadas ao RSS).<br>
 
 ## Arquitetura e pastas
 
