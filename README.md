@@ -1,4 +1,4 @@
-# IA no Piauí — Monitor de Notícias (Streamlit)
+# IA no Piauí — Monitor de Notícias 
 
 Painel simples para **monitorar menções** a “Inteligência Artificial” no Piauí a partir do **RSS do Google Notícias**.  
 Inclui **limpeza de texto**, **análise de sentimento baseada em regras**, **temas recorrentes** e **visualizações** (barras, donut, nuvem), além de **tabela com filtros** e **exportação CSV**.
