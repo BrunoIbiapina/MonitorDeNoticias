@@ -5,20 +5,20 @@ Inclui **limpeza de texto**, **análise de sentimento baseada em regras**, **tem
 
 ## Funcionalidades
 
-**Coleta** via RSS do Google Notícias (consulta customizável).<br>
+**Coleta** via RSS do Google Notícias (consulta customizável).<br><br>
 **Busca aprimorada**:<br>
 Presets de 1 clique (IA Piauí / SIA Piauí / IA Governo).<br>
-Filtros avançados: obrigatórias, exclusões e `site:dominio.com`.<br>
+Filtros avançados: obrigatórias, exclusões e `site:dominio.com`.<br><br>
 **Processamento**:<br>
 Limpeza HTML → texto limpo.<br>
 Deduplicação por `title`/`link`.<br>
 Extração de **fonte** (domínio) e **data de publicação**.<br>
-**Classificação de sentimento** por regras simples.<br>
-**Dashboard (abas)**:<br>
-**Visão Geral**: KPIs, badges das principais fontes, cards das últimas notícias.<br>
-**Gráficos**: barras e donut (Plotly).<br>
-**Tabela**: filtros por termo, fonte, sentimento e intervalo de datas + export CSV.<br>
-**Nuvem & Temas**: wordcloud + top palavras/bigramas.<br>
+**Classificação de sentimento** por regras simples.<br><br>
+**Dashboard (abas)**:<br><br>
+**Visão Geral**: KPIs, badges das principais fontes, cards das últimas notícias.<br><br>
+**Gráficos**: barras e donut (Plotly).<br><br>
+**Tabela**: filtros por termo, fonte, sentimento e intervalo de datas + export CSV.<br><br>
+**Nuvem & Temas**: wordcloud + top palavras/bigramas.<br><br>
 **Cache** da coleta (menos chamadas ao RSS).<br>
 
 ## Arquitetura e pastas
