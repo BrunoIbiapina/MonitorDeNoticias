@@ -1,5 +1,7 @@
 # IA no Piauí — Monitor de Notícias 
 
+![Monitor de Notícias: visão geral](docs/preview-portfolio.png)
+
 Painel simples para **monitorar menções** a “Inteligência Artificial” no Piauí a partir do **RSS do Google Notícias**.  
 Inclui **limpeza de texto**, **análise de sentimento baseada em regras**, **temas recorrentes** e **visualizações** (barras, donut, nuvem), além de **tabela com filtros** e **exportação CSV**.
 
