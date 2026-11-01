@@ -2,6 +2,8 @@
 
 ![Monitor de Notícias: visão geral](docs/preview-portfolio.png)
 
+> **In English:** Dashboard that monitors news about Artificial Intelligence in Piauí (Brazil) from Google News RSS: text cleaning, rule-based sentiment analysis, recurring topics, charts (bars, donut, word cloud), filterable table and CSV export. Python + Streamlit + Plotly.
+
 Painel simples para **monitorar menções** a “Inteligência Artificial” no Piauí a partir do **RSS do Google Notícias**.  
 Inclui **limpeza de texto**, **análise de sentimento baseada em regras**, **temas recorrentes** e **visualizações** (barras, donut, nuvem), além de **tabela com filtros** e **exportação CSV**.
 
